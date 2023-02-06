@@ -1,0 +1,1 @@
+# gradingsystem for three subjects
